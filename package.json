@@ -1,0 +1,63 @@
+  {
+  "name": "@ducvuong/tea-xyz",
+  "version": "2.0.2",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@ducvuong",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quocnc/tea-xyz",
+    "license": "ISC",
+    "dependencies": {
+    "http": "^0.0.1-security",
+    "http-server": "^14.1.1",
+    "lodash": "^4.17.21",
+    "sass-loader": "^14.1.1",
+    "@gauminhduc/maichi002": "^1.0.4",
+    "@gauminhduc/hoaithuong1188": "^1.0.3",
+    "@gauminhduc/ducphuong8384": "^1.0.3",
+    "@gauminhduc/ngduydat95": "^1.0.4",
+    "@gauminhduc/thuytrinh1700": "^1.0.3",
+    "@gauminhduc/ngocdiep291": "^1.0.3",
+    "@maivanquynh194/dangbh271": "^1.0.2",
+    "@maivanquynh194/quoctrong812": "^1.0.2",
+    "@maivanquynh194/hoanguyen225": "^1.0.2",
+    "@maivanquynh194/lienngo92": "^1.0.3",
+    "@maivanquynh194/manhquyet1004": "^1.0.2",
+    "@maivanquynh194/ngochan12989": "^1.0.2",
+    "@maivanquynh194/daonguyen223": "^1.0.3",
+    "@maivanquynh194/trannghia818": "^1.0.2",
+    "@maivanquynh194/ga2235": "^1.0.3",
+    "@maivanquynh194/ngovandung70": "^1.0.4",
+    "@maivanquynh194/trankien1991": "^1.0.2"
+},
+  "devDependencies": {
+    "@expo/config-plugins": "^7.2.5",
+    "@jamesacarr/eslint-formatter-github-actions": "^0.2.0",
+    "@react-native/eslint-config": "^0.72.2",
+    "@react-native/typescript-config": "^0.74.0",
+    "@release-it/conventional-changelog": "^7.0.0",
+    "@types/react": "^18.2.19",
+    "@types/react-native": "^0.72.2",
+    "eslint": "^8.46.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "prettier": "^3.0.1",
+    "react": "^18.2.0",
+    "react-native": "^0.72.3",
+    "react-native-builder-bob": "^0.21.3",
+    "react-native-worklets-core": "^0.3.0",
+    "release-it": "^16.1.3",
+    "typescript": "^5.1.6"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "tea-cup-core": "^2.2.3",
+    "react-native-worklets-core": "*"
+  },
+  "peerDependenciesMeta": {
+    "react-native-worklets-core": {
+      "optional": true
+    }
+  }
+}}
